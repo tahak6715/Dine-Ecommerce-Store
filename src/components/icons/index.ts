@@ -1,0 +1,6 @@
+export { default as Search } from './search-svgrepo-com.svg'
+export { default as Cart} from './shopping-cart-svgrepo-com.svg'
+export { default as Carta} from './search.svg'
+export {default as Twitter} from './twitter.svg'
+export { default as Facebook } from './facebook.svg'
+export { default as Linkedin } from './linkedin.svg'
